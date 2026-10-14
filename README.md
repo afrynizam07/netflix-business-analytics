@@ -41,7 +41,7 @@ This project was completed during my **Business Analytics internship at Auspify 
 - **Movies are a standard length:** the average runtime is about 100 minutes.
 - **TV shows are short-run:** the average show has 1.75 seasons, and 67% have only one season.
 
-![Content portfolio overview](charts/task1_portfolio_overview.png)
+![Content portfolio overview](Charts/task1_portfolio_overview.png)
 
 ### Task 2: Global Market
 - **The US is the anchor market:** 3,240 titles (38.1% of titles with a known country), followed by India (1,057) and the UK (638). Together these three make up 58% of the catalogue.
@@ -50,18 +50,18 @@ This project was completed during my **Business Analytics internship at Auspify 
 - **Momentum differs by market:** Brazil (67% of titles released since 2018), Spain (61%), Pakistan (59%) and Mexico (55%) have the most recent catalogues, while India (30%), Turkey (25%) and Egypt (22%) lean on older content.
 - **Format differs by market:** South Korea (77% TV) and Japan (66% TV) are TV-led, while India (8% TV) and Nigeria (9% TV) are almost entirely movie-led.
 
-![Where Netflix content comes from](charts/task2_market_overview.png)
+![Where Netflix content comes from](Charts/task2_market_overview.png)
 
-![Market momentum](charts/task2_market_momentum.png)
+![Market momentum](Charts/task2_market_momentum.png)
 
 ### Task 3: Audience Segmentation
 - **Adults are the largest segment:** 45.6% of titles, just ahead of Teens & Family (43.2%). Kids content is only 10.3%.
 - **Two ratings carry the catalogue:** TV-MA (3,205 titles) and TV-14 (2,157 titles) together make up 61% of everything.
 - **Kids content is mostly TV:** 17.4% of TV shows target kids vs only 7.2% of movies.
 
-![Audience segmentation](charts/task3_audience_segments.png)
+![Audience segmentation](Charts/task3_audience_segments.png)
 
-![Titles by rating](charts/task3_rating_by_type.png)
+![Titles by rating](Charts/task3_rating_by_type.png)
 
 ### Task 4: Growth & Trends
 - **Rapid expansion in the 2010s:** titles released per year grew from 192 in 2010 to a peak of 1,146 in 2018 (about 25% compound annual growth). About 71% of the catalogue was released in 2015 or later.
@@ -69,7 +69,7 @@ This project was completed during my **Business Analytics internship at Auspify 
 - **The mix is shifting toward TV:** TV's share of titles released rose from 20% in 2010 to 53% in 2021.
 - **A caution on recent years:** the drop after 2018 partly reflects the 2021 data cut-off, so it shouldn't be read as a collapse.
 
-![Growth and trend dashboard](charts/task4_growth_dashboard.png)
+![Growth and trend dashboard](Charts/task4_growth_dashboard.png)
 
 ## 💡 Business Recommendations
 
