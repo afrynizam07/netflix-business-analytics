@@ -86,12 +86,6 @@ This project was completed during my **Business Analytics internship at Auspify 
 | `Netflix_Business_Analytics_Notebook.ipynb` | Full analysis notebook |
 | `charts/` | Exported charts used in this README |
 
-## ▶️ How to Run
-
-1. Open the notebook in Google Colab or Jupyter.
-2. Upload the dataset (`Dataset.csv`) when prompted.
-3. Run all cells (**Runtime → Run all**).
-
 ## 👤 Author
 
 **Afry Nizam**: BSc Information Technology student, University of West London
